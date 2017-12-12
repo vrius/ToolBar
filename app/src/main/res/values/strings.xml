@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ToolBar</string>
+    <string name="action_edit">ToolBar</string>
+    <string name="ab_edit">ab_edit</string>
+    <string name="action_settings">action_settings</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+
+</resources>
